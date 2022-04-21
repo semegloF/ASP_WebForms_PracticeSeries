@@ -1,0 +1,9 @@
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\obj\Debug\testProjet.Form1.resources
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\obj\Debug\testProjet.Properties.Resources.resources
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\obj\Debug\testProjet.csproj.GenerateResource.cache
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\obj\Debug\testProjet.csproj.CoreCompileInputs.cache
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\bin\Debug\testProjet.exe.config
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\bin\Debug\testProjet.exe
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\bin\Debug\testProjet.pdb
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\obj\Debug\testProjet.exe
+C:\Users\Desira\Desktop\autres\AT2\testProjet\testProjet\obj\Debug\testProjet.pdb

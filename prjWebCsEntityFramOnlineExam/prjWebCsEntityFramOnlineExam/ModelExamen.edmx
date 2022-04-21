@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="teaccartOnlineSqlDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Etudiants">
+          <Key>
+            <PropertyRef Name="EtudiantID" />
+          </Key>
+          <Property Name="EtudiantID" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="Nom" Type="nvarchar" MaxLength="20" />
+          <Property Name="Mot2Passe" Type="nvarchar" MaxLength="50" />
+          <Property Name="Note" Type="float" />
+        </EntityType>
+        <EntityType Name="Questions">
+          <Key>
+            <PropertyRef Name="QuestionID" />
+          </Key>
+          <Property Name="QuestionID" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="Question" Type="nvarchar" MaxLength="150" />
+        </EntityType>
+        <EntityType Name="Reponses">
+          <Key>
+            <PropertyRef Name="ReponseID" />
+          </Key>
+          <Property Name="ReponseID" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="Reponse" Type="nvarchar" MaxLength="100" />
+          <Property Name="Valeur" Type="int" />
+          <Property Name="RefQuestion" Type="nvarchar" MaxLength="10" />
+        </EntityType>
+        <Association Name="FK_Reponses_Question">
+          <End Role="Questions" Type="Self.Questions" Multiplicity="0..1" />
+          <End Role="Reponses" Type="Self.Reponses" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Questions">
+              <PropertyRef Name="QuestionID" />
+            </Principal>
+            <Dependent Role="Reponses">
+              <PropertyRef Name="RefQuestion" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="teaccartOnlineSqlDBModelStoreContainer">
+          <EntitySet Name="Etudiants" EntityType="Self.Etudiants" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Questions" EntityType="Self.Questions" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Reponses" EntityType="Self.Reponses" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Reponses_Question" Association="Self.FK_Reponses_Question">
+            <End Role="Questions" EntitySet="Questions" />
+            <End Role="Reponses" EntitySet="Reponses" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="teaccartOnlineSqlDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Etudiant">
+          <Key>
+            <PropertyRef Name="EtudiantID" />
+          </Key>
+          <Property Name="EtudiantID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Nom" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="Mot2Passe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Note" Type="Double" />
+        </EntityType>
+        <EntityType Name="Question">
+          <Key>
+            <PropertyRef Name="QuestionID" />
+          </Key>
+          <Property Name="QuestionID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Question1" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Reponses" Relationship="Self.FK_Reponses_Question" FromRole="Questions" ToRole="Reponses" />
+        </EntityType>
+        <EntityType Name="Repons">
+          <Key>
+            <PropertyRef Name="ReponseID" />
+          </Key>
+          <Property Name="ReponseID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Reponse" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Valeur" Type="Int32" />
+          <Property Name="RefQuestion" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Question" Relationship="Self.FK_Reponses_Question" FromRole="Reponses" ToRole="Questions" />
+        </EntityType>
+        <Association Name="FK_Reponses_Question">
+          <End Role="Questions" Type="Self.Question" Multiplicity="0..1" />
+          <End Role="Reponses" Type="Self.Repons" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Questions">
+              <PropertyRef Name="QuestionID" />
+            </Principal>
+            <Dependent Role="Reponses">
+              <PropertyRef Name="RefQuestion" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="teaccartOnlineSqlDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Etudiants" EntityType="Self.Etudiant" />
+          <EntitySet Name="Questions" EntityType="Self.Question" />
+          <EntitySet Name="Reponses" EntityType="Self.Repons" />
+          <AssociationSet Name="FK_Reponses_Question" Association="Self.FK_Reponses_Question">
+            <End Role="Questions" EntitySet="Questions" />
+            <End Role="Reponses" EntitySet="Reponses" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="teaccartOnlineSqlDBModelStoreContainer" CdmEntityContainer="teaccartOnlineSqlDBEntities">
+          <EntitySetMapping Name="Etudiants">
+            <EntityTypeMapping TypeName="teaccartOnlineSqlDBModel.Etudiant">
+              <MappingFragment StoreEntitySet="Etudiants">
+                <ScalarProperty Name="EtudiantID" ColumnName="EtudiantID" />
+                <ScalarProperty Name="Nom" ColumnName="Nom" />
+                <ScalarProperty Name="Mot2Passe" ColumnName="Mot2Passe" />
+                <ScalarProperty Name="Note" ColumnName="Note" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Questions">
+            <EntityTypeMapping TypeName="teaccartOnlineSqlDBModel.Question">
+              <MappingFragment StoreEntitySet="Questions">
+                <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+                <ScalarProperty Name="Question1" ColumnName="Question" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Reponses">
+            <EntityTypeMapping TypeName="teaccartOnlineSqlDBModel.Repons">
+              <MappingFragment StoreEntitySet="Reponses">
+                <ScalarProperty Name="ReponseID" ColumnName="ReponseID" />
+                <ScalarProperty Name="Reponse" ColumnName="Reponse" />
+                <ScalarProperty Name="Valeur" ColumnName="Valeur" />
+                <ScalarProperty Name="RefQuestion" ColumnName="RefQuestion" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

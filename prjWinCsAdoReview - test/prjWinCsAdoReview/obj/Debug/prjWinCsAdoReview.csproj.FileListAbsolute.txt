@@ -1,0 +1,23 @@
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\bin\Debug\prjWinCsAdoReview.exe.config
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\bin\Debug\prjWinCsAdoReview.exe
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\bin\Debug\prjWinCsAdoReview.pdb
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.csprojAssemblyReference.cache
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.Properties.Resources.resources
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.csproj.GenerateResource.cache
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.csproj.CoreCompileInputs.cache
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.exe
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.pdb
+C:\Users\sirin\source\repos\hiver 2022\Applications transactionnelles sur le web 2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.frmPrincipale.resources
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\bin\Debug\prjWinCsAdoReview.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\bin\Debug\prjWinCsAdoReview.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\bin\Debug\prjWinCsAdoReview.pdb
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.frmPrincipale.resources
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.frmRecherche.resources
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.Properties.Resources.resources
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.csproj.GenerateResource.cache
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.csproj.CoreCompileInputs.cache
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.pdb
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.csproj.AssemblyReference.cache
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.frmCours.resources
+C:\Users\Desira\Desktop\autres\AT2\prjWinCsAdoReview\prjWinCsAdoReview\obj\Debug\prjWinCsAdoReview.frmDatasetStatic.resources

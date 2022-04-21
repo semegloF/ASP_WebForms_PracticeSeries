@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="teaccartOnlineSqlDBModelStoreContainer" CdmEntityContainer="teaccartOnlineSqlDBEntities">
+    <EntitySetMapping Name="Etudiants">
+      <EntityTypeMapping TypeName="teaccartOnlineSqlDBModel.Etudiant">
+        <MappingFragment StoreEntitySet="Etudiants">
+          <ScalarProperty Name="EtudiantID" ColumnName="EtudiantID" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Mot2Passe" ColumnName="Mot2Passe" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Questions">
+      <EntityTypeMapping TypeName="teaccartOnlineSqlDBModel.Question">
+        <MappingFragment StoreEntitySet="Questions">
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+          <ScalarProperty Name="Question1" ColumnName="Question" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reponses">
+      <EntityTypeMapping TypeName="teaccartOnlineSqlDBModel.Repons">
+        <MappingFragment StoreEntitySet="Reponses">
+          <ScalarProperty Name="ReponseID" ColumnName="ReponseID" />
+          <ScalarProperty Name="Reponse" ColumnName="Reponse" />
+          <ScalarProperty Name="Valeur" ColumnName="Valeur" />
+          <ScalarProperty Name="RefQuestion" ColumnName="RefQuestion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

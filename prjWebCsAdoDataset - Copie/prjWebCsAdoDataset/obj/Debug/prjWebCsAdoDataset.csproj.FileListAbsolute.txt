@@ -1,0 +1,118 @@
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\prjWebCsAdoDataset.dll.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\prjWebCsAdoDataset.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\prjWebCsAdoDataset.pdb
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\csc.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\csc.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\csc.rsp
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\csi.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\csi.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\csi.rsp
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.AppContext.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Console.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Net.Http.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\vbc.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\vbc.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\vbc.rsp
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.csproj.AssemblyReference.cache
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.csproj.CoreCompileInputs.cache
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.csproj.CopyComplete
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.pdb
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\prjWebCsAdoDataset.dll.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\prjWebCsAdoDataset.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\prjWebCsAdoDataset.pdb
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\csc.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\csc.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\csc.rsp
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\csi.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\csi.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\csi.rsp
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.AppContext.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Console.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.IO.Compression.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Net.Http.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.ValueTuple.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\vbc.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\vbc.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\vbc.rsp
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.csproj.AssemblyReference.cache
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.csproj.CoreCompileInputs.cache
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.csproj.CopyComplete
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.dll
+C:\Users\Desira\Desktop\autres\AT2\prjWebCsAdoDataset - Copie\prjWebCsAdoDataset\obj\Debug\prjWebCsAdoDataset.pdb
